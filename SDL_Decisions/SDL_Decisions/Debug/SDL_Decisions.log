@@ -1,10 +1,2 @@
-﻿  Agent.cpp
-  SDL_SimpleApp.cpp
-c:\users\ramonmormeneoferrer\desktop\sdl_decisions\src\sdl_simpleapp.cpp(70): warning C4305: '=': truncation from 'double' to 'float'
-  SceneDecisions.cpp
-c:\users\ramonmormeneoferrer\desktop\sdl_decisions\src\scenedecisions.cpp(126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  SteeringBehavior.cpp
-  main.cpp
-  utils.cpp
-  Generating Code...
-  SDL_Decisions.vcxproj -> C:\Users\ramonmormeneoferrer\Desktop\SDL_Decisions\\bin\SDL_Decisions.exe
+﻿  SDL_Decisions.vcxproj -> F:\client2\MirrorBell\AA4_Decisions\\bin\SDL_Decisions.exe
+  SDL_Decisions.vcxproj -> F:\client2\MirrorBell\AA4_Decisions\\bin\SDL_Decisions.pdb (Partial PDB)
